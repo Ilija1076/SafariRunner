@@ -1131,6 +1131,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+<<<<<<< HEAD
 --- !u!1 &97502344
 GameObject:
   m_ObjectHideFlags: 0
@@ -1264,6 +1265,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 97502344}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> origin/main
 --- !u!1 &98294267 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4c6df7248501625429e7315219028869, type: 3}
@@ -1358,7 +1361,10 @@ Transform:
   - {fileID: 1954759830}
   - {fileID: 2071736195}
   - {fileID: 1646462962}
+<<<<<<< HEAD
   - {fileID: 314396038}
+=======
+>>>>>>> origin/main
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &104607577
@@ -2285,7 +2291,10 @@ Transform:
   - {fileID: 312456911}
   - {fileID: 1067597448}
   - {fileID: 812814774}
+<<<<<<< HEAD
   - {fileID: 1257373914}
+=======
+>>>>>>> origin/main
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &171441523
@@ -3608,7 +3617,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -3995,7 +4008,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -4373,6 +4390,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 312456910}
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!1 &314396037
 GameObject:
   m_ObjectHideFlags: 0
@@ -4507,6 +4525,8 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 314396037}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+=======
+>>>>>>> origin/main
 --- !u!1 &327891968
 GameObject:
   m_ObjectHideFlags: 0
@@ -4920,7 +4940,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -5461,7 +5485,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -6484,7 +6512,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
+<<<<<<< HEAD
   m_Color: {r: 0.9339623, g: 0.8915142, b: 0.53306335, a: 1}
+=======
+  m_Color: {r: 1, g: 0.89293134, b: 0, a: 1}
+>>>>>>> origin/main
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -7037,6 +7069,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4809657504161158, guid: 839bd815e5d323a41a138ac47a963323, type: 3}
   m_PrefabInstance: {fileID: 301602435}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &505976563
 GameObject:
   m_ObjectHideFlags: 0
@@ -7171,6 +7204,8 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 505976563}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+=======
+>>>>>>> origin/main
 --- !u!4 &507085516 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4809657504161158, guid: 839bd815e5d323a41a138ac47a963323, type: 3}
@@ -7396,7 +7431,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -8280,7 +8319,11 @@ GameObject:
   - component: {fileID: 602270100}
   m_Layer: 0
   m_Name: SandFloor
+<<<<<<< HEAD
   m_TagString: Ground
+=======
+  m_TagString: Untagged
+>>>>>>> origin/main
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8682,6 +8725,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
 --- !u!1 &630760592
 GameObject:
   m_ObjectHideFlags: 0
@@ -8761,6 +8805,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 630760592}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> origin/main
 --- !u!4 &630846814 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 283c2a73be2ff274abe5a6c1e1ee3a48, type: 3}
@@ -8939,7 +8985,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -9625,7 +9675,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -9822,7 +9876,11 @@ GameObject:
   - component: {fileID: 719628923}
   m_Layer: 0
   m_Name: SandFloor
+<<<<<<< HEAD
   m_TagString: Ground
+=======
+  m_TagString: Untagged
+>>>>>>> origin/main
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11191,7 +11249,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -11432,7 +11494,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -11639,6 +11705,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: b58e7fdfb89fbc549b36a69243aee4c0, type: 3}
   m_PrefabInstance: {fileID: 1639878541}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &861144466
 GameObject:
   m_ObjectHideFlags: 0
@@ -11772,6 +11839,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 861144466}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> origin/main
 --- !u!1 &865182312
 GameObject:
   m_ObjectHideFlags: 0
@@ -11786,7 +11855,11 @@ GameObject:
   - component: {fileID: 865182314}
   m_Layer: 0
   m_Name: SandFloor
+<<<<<<< HEAD
   m_TagString: Ground
+=======
+  m_TagString: Untagged
+>>>>>>> origin/main
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11877,6 +11950,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 865182312}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!1 &865668685
 GameObject:
   m_ObjectHideFlags: 0
@@ -11961,6 +12035,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+=======
+>>>>>>> origin/main
 --- !u!1 &867554342
 GameObject:
   m_ObjectHideFlags: 0
@@ -12174,6 +12250,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 839bd815e5d323a41a138ac47a963323, type: 3}
+<<<<<<< HEAD
 --- !u!1 &888131068
 GameObject:
   m_ObjectHideFlags: 0
@@ -12308,6 +12385,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coinFX: {fileID: 1518926009}
+=======
+>>>>>>> origin/main
 --- !u!1 &895934610 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: a4bc58a5795da5842826b4bfd9d4d226, type: 3}
@@ -12397,7 +12476,10 @@ GameObject:
   - component: {fileID: 912268057}
   - component: {fileID: 912268056}
   - component: {fileID: 912268055}
+<<<<<<< HEAD
   - component: {fileID: 912268059}
+=======
+>>>>>>> origin/main
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -12463,7 +12545,11 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 0
+<<<<<<< HEAD
   m_AdditionalShaderChannelsFlag: 25
+=======
+  m_AdditionalShaderChannelsFlag: 0
+>>>>>>> origin/main
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
@@ -12489,7 +12575,10 @@ RectTransform:
   - {fileID: 1358406125}
   - {fileID: 1662336675}
   - {fileID: 1872285189}
+<<<<<<< HEAD
   - {fileID: 630760593}
+=======
+>>>>>>> origin/main
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -12497,6 +12586,7 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+<<<<<<< HEAD
 --- !u!114 &912268059
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12510,6 +12600,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pauseMenu: {fileID: 630760592}
+=======
+>>>>>>> origin/main
 --- !u!1001 &912939676
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13970,7 +14062,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -14047,6 +14143,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4809657504161158, guid: 839bd815e5d323a41a138ac47a963323, type: 3}
   m_PrefabInstance: {fileID: 1676303200}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &1022859443
 GameObject:
   m_ObjectHideFlags: 0
@@ -14181,6 +14278,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1022859443}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> origin/main
 --- !u!4 &1024444118 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: dcf51a1e867a87e4596f1c757cbdb947, type: 3}
@@ -16408,7 +16507,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -16673,7 +16776,10 @@ Transform:
   - {fileID: 1878802903}
   - {fileID: 357176502}
   - {fileID: 1145327895}
+<<<<<<< HEAD
   - {fileID: 505976564}
+=======
+>>>>>>> origin/main
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1204877448
@@ -16942,6 +17048,7 @@ MonoBehaviour:
   crashThud: {fileID: 217782514}
   mainCam: {fileID: 1039146648}
   levelControll: {fileID: 2046977459}
+<<<<<<< HEAD
 --- !u!1 &1215874423
 GameObject:
   m_ObjectHideFlags: 0
@@ -17026,6 +17133,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+=======
+>>>>>>> origin/main
 --- !u!4 &1221575761 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4809657504161158, guid: 839bd815e5d323a41a138ac47a963323, type: 3}
@@ -17092,6 +17201,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dcf51a1e867a87e4596f1c757cbdb947, type: 3}
+<<<<<<< HEAD
 --- !u!1 &1227449396
 GameObject:
   m_ObjectHideFlags: 0
@@ -17176,6 +17286,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+=======
+>>>>>>> origin/main
 --- !u!4 &1234764235 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4809657504161158, guid: 839bd815e5d323a41a138ac47a963323, type: 3}
@@ -17869,6 +17981,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dcf51a1e867a87e4596f1c757cbdb947, type: 3}
+<<<<<<< HEAD
 --- !u!1 &1257373913
 GameObject:
   m_ObjectHideFlags: 0
@@ -18003,6 +18116,8 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1257373913}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+=======
+>>>>>>> origin/main
 --- !u!1001 &1272352526
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18147,7 +18262,11 @@ GameObject:
   - component: {fileID: 1285006938}
   m_Layer: 0
   m_Name: SandFloor
+<<<<<<< HEAD
   m_TagString: Ground
+=======
+  m_TagString: Untagged
+>>>>>>> origin/main
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18976,7 +19095,11 @@ GameObject:
   - component: {fileID: 1356179937}
   m_Layer: 0
   m_Name: SandFloor
+<<<<<<< HEAD
   m_TagString: Ground
+=======
+  m_TagString: Untagged
+>>>>>>> origin/main
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19061,7 +19184,11 @@ Transform:
   m_GameObject: {fileID: 1356179936}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 0, y: -0.64, z: 0}
+=======
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+>>>>>>> origin/main
   m_LocalScale: {x: 8, y: 1, z: 50}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -19527,7 +19654,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -20445,7 +20576,10 @@ Transform:
   - {fileID: 58514913}
   - {fileID: 1692112148}
   - {fileID: 356962743}
+<<<<<<< HEAD
   - {fileID: 888131072}
+=======
+>>>>>>> origin/main
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1455485910 stripped
@@ -21598,6 +21732,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dcf51a1e867a87e4596f1c757cbdb947, type: 3}
+<<<<<<< HEAD
 --- !u!1 &1583815460
 GameObject:
   m_ObjectHideFlags: 0
@@ -21816,6 +21951,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1586020429}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> origin/main
 --- !u!1001 &1586708175
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22491,7 +22628,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -23429,7 +23570,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -23782,6 +23927,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: dcf51a1e867a87e4596f1c757cbdb947, type: 3}
   m_PrefabInstance: {fileID: 1850562439}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &1680586063
 GameObject:
   m_ObjectHideFlags: 0
@@ -23916,6 +24062,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1680586063}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> origin/main
 --- !u!4 &1681426806 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4809657504161158, guid: 839bd815e5d323a41a138ac47a963323, type: 3}
@@ -23971,7 +24119,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -25019,7 +25171,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -25199,7 +25355,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -25339,6 +25499,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
 --- !u!1 &1759313417
 GameObject:
   m_ObjectHideFlags: 0
@@ -25472,6 +25633,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1759313417}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> origin/main
 --- !u!1001 &1764114586
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25901,7 +26064,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -25991,7 +26158,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -27729,7 +27900,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -28128,7 +28303,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -29313,6 +29492,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dcf51a1e867a87e4596f1c757cbdb947, type: 3}
+<<<<<<< HEAD
 --- !u!1 &2011388503
 GameObject:
   m_ObjectHideFlags: 0
@@ -29447,6 +29627,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2011388503}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> origin/main
 --- !u!1001 &2014166368
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -30137,7 +30319,11 @@ Transform:
   m_GameObject: {fileID: 2032877537}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: -2.5, y: 1.23, z: -18.08}
+=======
+  m_LocalPosition: {x: -2.5, y: 1.23, z: -18.73}
+>>>>>>> origin/main
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -30159,7 +30345,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -30674,7 +30864,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -31088,7 +31282,11 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2082504909}
+<<<<<<< HEAD
   m_Enabled: 0
+=======
+  m_Enabled: 1
+>>>>>>> origin/main
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -31408,7 +31606,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> origin/main
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3

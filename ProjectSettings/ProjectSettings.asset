@@ -734,9 +734,13 @@ PlayerSettings:
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
   cloudServicesEnabled:
+<<<<<<< HEAD
     Purchasing: 0
     UNet: 1
     Unity Ads: 0
+=======
+    UNet: 1
+>>>>>>> origin/main
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 

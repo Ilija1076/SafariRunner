@@ -927,6 +927,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 447219923}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!1 &472692948
 GameObject:
   m_ObjectHideFlags: 0
@@ -1006,6 +1007,8 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 29}
   m_SizeDelta: {x: 160, y: 400}
   m_Pivot: {x: 0.5, y: 0.5}
+=======
+>>>>>>> origin/main
 --- !u!1001 &476697821
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1293,7 +1296,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 673581157}
+<<<<<<< HEAD
   - component: {fileID: 673581160}
+=======
+  - component: {fileID: 673581158}
+>>>>>>> origin/main
   m_Layer: 0
   m_Name: MenuFunctionality
   m_TagString: Untagged
@@ -1316,7 +1323,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!114 &673581160
+=======
+--- !u!114 &673581158
+>>>>>>> origin/main
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1325,7 +1336,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 673581155}
   m_Enabled: 1
   m_EditorHideFlags: 0
+<<<<<<< HEAD
   m_Script: {fileID: 11500000, guid: 1264408c6745db54899ffad443dd9c75, type: 3}
+=======
+  m_Script: {fileID: 11500000, guid: ce26f0d4aacda1746a8caa97fb35a33e, type: 3}
+>>>>>>> origin/main
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &696417401
@@ -1739,7 +1754,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 0.000045776367, y: -562}
+=======
+  m_AnchoredPosition: {x: 0.000045776, y: -562}
+>>>>>>> origin/main
   m_SizeDelta: {x: 422.969, y: 65.629}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &913843595
@@ -2443,7 +2462,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 0.000045776367, y: -483.00003}
+=======
+  m_AnchoredPosition: {x: 0.000045776, y: -483.00003}
+>>>>>>> origin/main
   m_SizeDelta: {x: 422.969, y: 65.629}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1273659833
@@ -2489,6 +2512,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1273659834}
   m_OnClick:
     m_PersistentCalls:
+<<<<<<< HEAD
       m_Calls:
       - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: UIManager, Assembly-CSharp
@@ -2502,6 +2526,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+=======
+      m_Calls: []
+>>>>>>> origin/main
 --- !u!114 &1273659834
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2810,7 +2837,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 0.000045776367, y: -644.00006}
+=======
+  m_AnchoredPosition: {x: 0.000045776, y: -644.00006}
+>>>>>>> origin/main
   m_SizeDelta: {x: 422.969, y: 65.629}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1338740478
@@ -3034,6 +3065,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: dcf51a1e867a87e4596f1c757cbdb947, type: 3}
   m_PrefabInstance: {fileID: 69248363}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &1411927380
 GameObject:
   m_ObjectHideFlags: 0
@@ -3170,6 +3202,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1411927380}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> origin/main
 --- !u!4 &1421922677 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: dcf51a1e867a87e4596f1c757cbdb947, type: 3}
@@ -3211,7 +3245,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 0.000045776367, y: -731}
+=======
+  m_AnchoredPosition: {x: 0.000045776, y: -731}
+>>>>>>> origin/main
   m_SizeDelta: {x: 422.969, y: 65.629}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1445177589
@@ -3258,7 +3296,11 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
+<<<<<<< HEAD
       - m_Target: {fileID: 673581160}
+=======
+      - m_Target: {fileID: 673581158}
+>>>>>>> origin/main
         m_TargetAssemblyTypeName: MainMenuFunction, Assembly-CSharp
         m_MethodName: QuitGame
         m_Mode: 1
@@ -3313,6 +3355,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4809657504161158, guid: 839bd815e5d323a41a138ac47a963323, type: 3}
   m_PrefabInstance: {fileID: 536197573}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &1473549699
 GameObject:
   m_ObjectHideFlags: 0
@@ -3446,6 +3489,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1473549699}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> origin/main
 --- !u!4 &1523864971 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: dcf51a1e867a87e4596f1c757cbdb947, type: 3}
@@ -3950,7 +3995,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 0.000045776367, y: -407}
+=======
+  m_AnchoredPosition: {x: 0.000045776, y: -407}
+>>>>>>> origin/main
   m_SizeDelta: {x: 422.969, y: 65.629}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1689375950
@@ -3997,7 +4046,11 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
+<<<<<<< HEAD
       - m_Target: {fileID: 673581160}
+=======
+      - m_Target: {fileID: 673581158}
+>>>>>>> origin/main
         m_TargetAssemblyTypeName: MainMenuFunction, Assembly-CSharp
         m_MethodName: PlayGame
         m_Mode: 1
@@ -5047,6 +5100,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4809657504161158, guid: 839bd815e5d323a41a138ac47a963323, type: 3}
   m_PrefabInstance: {fileID: 198796994}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &2141013436
 GameObject:
   m_ObjectHideFlags: 0
@@ -5163,6 +5217,8 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+=======
+>>>>>>> origin/main
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -5174,4 +5230,7 @@ SceneRoots:
   - {fileID: 2047510939}
   - {fileID: 1119454323}
   - {fileID: 2019601241}
+<<<<<<< HEAD
   - {fileID: 2141013441}
+=======
+>>>>>>> origin/main
