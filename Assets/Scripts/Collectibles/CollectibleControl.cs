@@ -15,4 +15,11 @@ public class CollectibleControl : MonoBehaviour
         coinEndDisplay.GetComponent<Text>().text = "" + coinCount;
 
     }
+<<<<<<< HEAD
+    public static void ResetCoinCount()
+    {
+        coinCount = 0;
+    }
+=======
+>>>>>>> origin/main
 }
